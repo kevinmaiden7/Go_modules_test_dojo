@@ -16,7 +16,7 @@ func main() {
 	log.SetFlags(0)
 
 	// A slice of names.
-	names := []string{"Alice", "Bob"}
+	names := []string{"Bruce", "Steve", "Adrian", "Dave", "Janick", "Nicko"}
 
 	// Request a greeting message.
 	// message, err := greetings.Hello("Kevin")
